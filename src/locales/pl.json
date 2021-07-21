@@ -1,0 +1,11 @@
+{
+    pl: {
+        translation: {
+            login: 'Logowanie',
+            sign_in_to_your_account: 'Zaloguj się na swoje konto',
+            log_in: 'Zaloguj się',
+            username: 'Użytkownik',
+            password: 'Hasło'
+        }
+    }
+} 

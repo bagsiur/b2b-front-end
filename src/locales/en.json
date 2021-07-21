@@ -1,0 +1,11 @@
+{
+    en: {
+        translation: {
+            login: 'Login',
+            sign_in_to_your_account: 'Sign In to your account',
+            log_in: 'Login',
+            username: 'Username',
+            password: 'Password'
+        }
+    }
+} 
